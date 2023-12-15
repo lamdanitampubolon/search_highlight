@@ -1,0 +1,25 @@
+#konten{
+  margin-top: 25px;
+}
+  
+.di_spot {
+  background-color: greenyellow;
+}
+  
+.di_spot.active {
+  background: red;
+}
+  
+.cari{
+  position:fixed;
+  background: green;
+  padding: 5px 5px;
+  right:0;
+  top:0;
+}
+
+#found {
+  display:none;
+  color: black;
+  padding: 55px;
+}
